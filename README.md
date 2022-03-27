@@ -1,3 +1,2 @@
-# PatronsRecogniceMaster
+# Reconocimiento de patrones con Python
 
-Patrons recognice projects on Python.
